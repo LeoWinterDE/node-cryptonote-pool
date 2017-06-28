@@ -1,11 +1,11 @@
 {
-    "name": "cryptonote-universal-pool",
+    "name": "cryptonote-pool",
     "version": "0.0.1",
     "license": "GPL-2.0",
     "author": "Matthew Little",
     "repository": {
         "type": "git",
-        "url": "https://github.com/fancoder/cryptonote-universal-pool.git"
+        "url": "https://github.com/zone117x/node-cryptonote-pool.git"
     },
     "dependencies": {
         "bignum": "0.12.5",
