@@ -11,7 +11,7 @@
         "bignum": "0.12.5",
         "async": "1.5.2",
         "redis": "0.12.1",
-        "cli-color": "1.1.0",
+        "cli-color": "1.2.0",
         "dateformat": "1.0.12",
         "base58-native": "0.1.4",
         "cryptonote-util": "git://github.com/IATkachenko/node-cryptonote-util.git#Nan-2.0",
