@@ -22,6 +22,7 @@
         "poolAddress": "ddehi53dwGSBEXdhTYtga2R3fS4y9hRz4YHAsLABJpH75yUd5EDQmuL3yDBj1mG6MMeDfydY9vp4zFVVNQ99FTYq2PpsFJP2y",
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
+        "addressSeparator": ".",
         "ports": [
             {
                 "port": 3333,
@@ -55,7 +56,6 @@
         },
         "fixedDiff": {
             "enabled": true,
-            "addressSeparator": "."
         },
         "shareTrust": {
             "enabled": true,
